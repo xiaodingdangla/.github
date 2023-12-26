@@ -1,12 +1,27 @@
-## Hi there 👋
+**郑州市郑东新区小叮当软件工作室**
 
-<!--
+欢迎来到郑州市郑东新区小叮当软件工作室的GitHub组织！我们是致力于提供微信公众号打卡提醒服务的一家软件开发公司。
 
-**Here are some ideas to get you started:**
+**公司概览**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+郑州市郑东新区小叮当软件工作室成立于2023年10月24日，我们专注于开发创新的微信公众号打卡提醒应用，通过技术帮助用户更好地管理时间，提高工作效率。
+
+**核心产品与服务**
+
+我们的核心产品是微信公众号打卡提醒应用，它为用户提供个性化的提醒服务，帮助他们更好地规划和管理时间。我们注重用户体验，致力于提供简洁、直观的操作界面和高效的服务。
+
+**技术实力**
+
+我们拥有一支技术实力强大的团队，具备丰富的行业经验和专业知识。我们不断探索新的技术和方法，以满足不断变化的市场需求，并始终保持技术的领先地位。
+
+**愿景与使命**
+
+我们的愿景是通过技术创新和卓越的用户体验，成为微信公众号打卡提醒领域的领导者。我们的使命是通过提供个性化的提醒服务，帮助用户更好地管理时间，提高工作效率，创造更多的价值。
+
+**如何与我们合作**
+
+如果您对我们的产品感兴趣，或者有任何合作意向，请通过以下方式与我们联系：
+
+* 邮箱：[xiaodingdangla@outlook.com]
+
+再次感谢您对我们公司的关注和支持！我们期待与您携手共创美好未来！
